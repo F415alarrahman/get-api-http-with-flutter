@@ -1,0 +1,21 @@
+{
+  "id": 3,
+  "user_id": 3,
+  "title": "judul 1",
+  "description": "deskripsi 1",
+  "cooking_method": "cooking 1",
+  "ingredients": "inggridiens 1",
+  "photo_url": "https://recipe.incube.id/api/get_file/photos/kFEqdkGkcG8XAf8OiAnps0tuORwLdFAFQlaAGLag.jpg",
+  "created_at": "2024-10-30T02:52:02.000000Z",
+  "updated_at": "2024-10-30T02:52:02.000000Z",
+  "likes_count": 2,
+  "comments_count": 0,
+  "user": {
+    "id": 3,
+    "name": "Arif",
+    "email": "hyda.arif2@gmail.com",
+    "email_verified_at": null,
+    "created_at": "2024-10-22T08:35:00.000000Z",
+    "updated_at": "2024-10-22T08:35:00.000000Z"
+  }
+}
